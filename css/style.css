@@ -1,0 +1,31 @@
+body {
+  padding: 20px;
+}
+
+.img-dx {
+  margin-left: 1300px;
+  margin-bottom: 70px;
+  border-radius: 30px;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-between;
+  width: 100rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100rem;
+}
+
+.card-group {
+  width: 1050px;
+  height: 700px;
+  padding: 70px;
+  padding-left: 15px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
